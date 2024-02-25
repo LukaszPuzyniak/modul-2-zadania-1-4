@@ -77,8 +77,6 @@ namespace module2
             Console.WriteLine("What's your weight, please use \"kg\":");
             byte weight = byte.Parse(Console.ReadLine());
 
-
-
         }
 
     }
